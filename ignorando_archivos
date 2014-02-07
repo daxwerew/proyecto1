@@ -1,0 +1,4 @@
+Ignorat archivos en git
+Para ignorar archivos en git 
+se debe crear un archivo llamado .gitignore dentro del proyecto, en este archivo de texto plano se deben indicar las reglas para los archivos que seran ignorados
+Ej. *.dll ignorara todos los archivos que terminen con .dll
